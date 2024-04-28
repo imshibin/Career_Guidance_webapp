@@ -1,0 +1,11 @@
+.admin-viewcollege {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center-table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

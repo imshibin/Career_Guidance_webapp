@@ -1,0 +1,11 @@
+.admin-viewjob {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center-jobtable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

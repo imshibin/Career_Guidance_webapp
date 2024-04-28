@@ -1,0 +1,44 @@
+.loginbody {
+    padding-top: 2%;
+    text-align: center;
+    width: 45%;
+    margin-left: 28%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-repeat: no-repeat;
+    background-size: 130%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+.but1 {
+    padding: 15px 25px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin: 0 10px;
+}
+
+.but1:hover {
+    background-color: #3e8e41
+}
+
+.but1:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
